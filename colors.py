@@ -1,0 +1,12 @@
+# class bcolors:
+HEADER = '\033[1;95m'
+OKBLUE = '\033[1;94m'
+GRE = '\033[1;92m'
+ENDC = '\033[1;0m'
+BOLD = '\033[1;90m'
+YELLOW = '\033[1;93m'
+RED = "\033[1;31m"
+BLUE = "\033[1;34m"
+CYAN = "\033[1;36m"
+RESET = "\033[0;0m"
+REVERSE = "\033[;7m"
